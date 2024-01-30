@@ -30,4 +30,6 @@ public class Book {
 	private UUID bookId;
 	@Column(name="book_name")
 	private String bookName;
+	
+	
 }
